@@ -1,1 +1,3 @@
-console.log('It Works!')
+#!/usr/bin/env node
+
+console.log('It Works!');
